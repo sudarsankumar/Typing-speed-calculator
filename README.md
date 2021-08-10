@@ -12,4 +12,4 @@ git clone "https://github.com/sudarsankumar/Typing-speed-calculator.git"
 ```
 
 ## demo link
-[Theme toggler](https://sudarsankumar.github.io/Typing-speed-calculator/)
+[Typing Speed Calculator](https://sudarsankumar.github.io/Typing-speed-calculator/)

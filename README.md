@@ -1,5 +1,5 @@
 # Typing-speed-calculator
-This is a simple project done using javascript which makes you toggle between light and dark theme smoothly
+This is a simple project done using javascript which makes you test your typing speed
 ## Table Of Contents
 - [Installation](#installation)
 - [Sample Link](#sample-link)
